@@ -1,0 +1,40 @@
+{
+    "Heading": "SERVICES",
+    "Services": [{
+            "id": 1,
+            "name": "Webdesign",
+            "content": "Our designs are based on real user and business needs. with that in mind, we create user-friendly interfaces thjat appeal to your target",
+            "Image": "/home/one.png"
+        },
+        {
+            "id": 2,
+            "name": "Portals",
+            "content": "We build integrated portals wit the best frameworks that manage all the diverse actibities and processes at all levels in real time",
+            "Image": "/home/two.png"
+        },
+        {
+            "id": 3,
+            "name": "eCommerce",
+            "content": "Our e-Commerce solutions are modern services platforms built with dynamic system architecture that are cost-effective, user-friendly and fast",
+            "Image": "/home/three.png"
+        },
+        {
+            "id": 4,
+            "name": "Web Application Development",
+            "content": "We recognize that your requirements are uniqye that s why we tailor web based systems to manage front and back-end functionalities to msuite your goals and objectives",
+            "Image": "/home/four.png"
+        },
+        {
+            "id": 5,
+            "name": "Mobile Application Development",
+            "content": "web designs develop and deploy virtually appealing mobile apps and games with seamless mobile user experience that are built with modern webservices for all mobile platforms",
+            "Image": "/home/five.png"
+        },
+        {
+            "id": 6,
+            "name": "Enterprise Applications",
+            "content": "We are passionate about technology that best delivers real business value. our bespoke digital solutions solve offline and online business process automated needs",
+            "Image": "/home/six.png"
+        }
+    ]
+}

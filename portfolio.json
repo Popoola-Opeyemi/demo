@@ -1,0 +1,22 @@
+{
+    "Heading": "PORTFOLIO",
+    "Content": "Proactively deep-diving globally immersive",
+    "Subcontent": "We use our whole sale paradigm shift to intelligently manage our capability expectations in the low hanging fruit space industry is dynamically transforming it's best-in-class stakeholders.",
+    "Porfolio": [{
+            "Image": "/home/1.jpg",
+            "Imagetagline": "LSF PR"
+        },
+        {
+            "Image": "/home/2.jpg",
+            "Imagetagline": "QUEST ONE LIMITED"
+        },
+        {
+            "Image": "/home/3.jpg",
+            "Imagetagline": "THE LUX DIGEST"
+        },
+        {
+            "Image": "/home/4.jpg",
+            "Imagetagline": "TOP GRADE SECONDARY SCHOOL"
+        }
+    ]
+}
