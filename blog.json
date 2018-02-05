@@ -1,8 +1,113 @@
 {
-    "Heading": "BLOG",
-    "Blogs": [{
-        "Heading": "Tech Science",
-        "Body": "Technoly is the biggest driver of development in developing nations such that it ensure global connectivity with the global market",
+    "About": [{
+        "Heading": "ABOUT",
+        "Subheading": "We specialize in delivering world-class solutions.",
+        "Content": "As a company, we at Orb solutions adopt a 'continuous improvement' philosophy for all of our products and solutions. Nothing is more important to us than making our clients happy, so we continuously listen attentively to each cleint and customize our solution to fit their perculiar needs",
+        "Quote": "we arre what we repeatedly do. Excellence, then is not an act but an habit",
+        "Quotee": "Aristotle",
+        "Image": ""
+    }],
+    "Blog": [{
+        "Heading": "BLOG",
+        "Blogs": [{
+            "Heading": "Tech Science",
+            "Body": "Technoly is the biggest driver of development in developing nations such that it ensure global connectivity with the global market",
+            "Image": "/home/1.jpg"
+        }]
+    }],
+    "Clients": [{
+        "Heading": "OUR CLIENTS",
+        "Imageurls": [{
+                "Image": "/home/1.jpg"
+            },
+            {
+                "Image": "/home/2.jpg"
+            },
+            {
+                "Image": "/home/3.jpg"
+            },
+            {
+                "Image": "/home/4.jpg"
+            },
+            {
+                "Image": "/home/5.jpg"
+            },
+            {
+                "Image": "/home/6.jpg"
+            }
+        ]
+    }],
+    "Contact": [{
+        "Heading": "GET IN TOUCH",
+        "Content": "Lets help you make that project come to life",
+        "Subcontent": "The penthouse, ADebayo Akande Center,1 oba Akaran Avenue, Ikeja Lagos",
+        "Contactinfo": "+234903336724, +234903456727",
+        "Emailaddress": "info@orbsolutions.com.ng",
+        "Imageurl": "/home/1.jpg"
+    }],
+    "Home": [{
         "Image": "/home/1.jpg"
+    }],
+    "Portfolio": [{
+        "Heading": "PORTFOLIO",
+        "Content": "Proactively deep-diving globally immersive",
+        "Subcontent": "We use our whole sale paradigm shift to intelligently manage our capability expectations in the low hanging fruit space industry is dynamically transforming it's best-in-class stakeholders.",
+        "Porfolio": [{
+                "Image": "/home/1.jpg",
+                "Imagetagline": "LSF PR"
+            },
+            {
+                "Image": "/home/2.jpg",
+                "Imagetagline": "QUEST ONE LIMITED"
+            },
+            {
+                "Image": "/home/3.jpg",
+                "Imagetagline": "THE LUX DIGEST"
+            },
+            {
+                "Image": "/home/4.jpg",
+                "Imagetagline": "TOP GRADE SECONDARY SCHOOL"
+            }
+        ]
+    }],
+    "Service": [{
+        "Heading": "SERVICES",
+        "Services": [{
+                "id": 1,
+                "name": "Webdesign",
+                "content": "Our designs are based on real user and business needs. with that in mind, we create user-friendly interfaces thjat appeal to your target",
+                "Image": "/home/one.png"
+            },
+            {
+                "id": 2,
+                "name": "Portals",
+                "content": "We build integrated portals wit the best frameworks that manage all the diverse actibities and processes at all levels in real time",
+                "Image": "/home/two.png"
+            },
+            {
+                "id": 3,
+                "name": "eCommerce",
+                "content": "Our e-Commerce solutions are modern services platforms built with dynamic system architecture that are cost-effective, user-friendly and fast",
+                "Image": "/home/three.png"
+            },
+            {
+                "id": 4,
+                "name": "Web Application Development",
+                "content": "We recognize that your requirements are uniqye that s why we tailor web based systems to manage front and back-end functionalities to msuite your goals and objectives",
+                "Image": "/home/four.png"
+            },
+            {
+                "id": 5,
+                "name": "Mobile Application Development",
+                "content": "web designs develop and deploy virtually appealing mobile apps and games with seamless mobile user experience that are built with modern webservices for all mobile platforms",
+                "Image": "/home/five.png"
+            },
+            {
+                "id": 6,
+                "name": "Enterprise Applications",
+                "content": "We are passionate about technology that best delivers real business value. our bespoke digital solutions solve offline and online business process automated needs",
+                "Image": "/home/six.png"
+            }
+        ]
     }]
 }
